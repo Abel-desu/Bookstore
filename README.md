@@ -17,22 +17,22 @@
 
 ## Getting Started
 
-** Copy https://github.com/Abel-desu/Bookstore.git
+- Copy https://github.com/Abel-desu/Bookstore.git
 
-** Get the directory that you want to clone the repository.
+- Get the directory that you want to clone the repository.
 
-** Open the command prompt in this directory.
+- Open the command prompt in this directory.
 
-** Type git clone https://github.com/Abel-desu/Bookstore
+- Type git clone https://github.com/Abel-desu/Bookstore
 
-** Go to the repository folder in your command prompt cd Bookstore
+- Go to the repository folder in your command prompt cd Bookstore
 
-** Run npm install to install the dev dependencies for linters and node sass.
+- Run npm install to install the dev dependencies for linters and node sass.
 
-** Run npm start to display the project on the website
+- Run npm start to display the project on the website
 
 
-** To get a local copy up and running follow these simple example steps.
+- To get a local copy up and running follow these simple example steps.
 
 
 
