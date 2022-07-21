@@ -1,8 +1,9 @@
+/*eslint-disable*/
 const CHECK_STATUS = 'bookstore/categories/CHECK_STATUS';
 
 const categoriesReducer = (state = [], action) => {
   if (action.type === CHECK_STATUS) {
-    return 'UNDER CONSTRUCTION';
+    return ['Under Construction'];
   }
   return state;
 };
