@@ -30,27 +30,3 @@
   column-gap: 40px;
   font-family: 'Montserrat', sans-serif;
 }
-
-/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
-
-
-.iconButton {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-  width: 2.813rem;
-  height: 2.813rem;
-  border-radius: 50%;
-  border: 1px solid #e8e8e8;
-  background-color: #fff;
-  color: #0290ff;
-  justify-self: end;
-}
-
-.span {
-  color: #0290ff;
-}
-
- */
