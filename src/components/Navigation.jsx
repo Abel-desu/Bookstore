@@ -5,7 +5,7 @@ function Navigation() {
   return (
     <div className={classes.container}>
       <header className={classes.header}>
-        <div className={classes.logo}>Bookstore</div>
+        <div className={classes.logo}>Bookstore CMS</div>
         <nav>
           <ul className={classes.ulContainer}>
             <li>
