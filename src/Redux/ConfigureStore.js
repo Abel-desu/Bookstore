@@ -1,4 +1,3 @@
-/*eslint-disable*/
 import { configureStore } from '@reduxjs/toolkit';
 import BookReducer from './books/book';
 import CategoryReducer from './categories/categories';

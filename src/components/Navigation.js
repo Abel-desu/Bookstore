@@ -1,4 +1,3 @@
-/*eslint-disable*/
 import { Link } from 'react-router-dom';
 import classes from './Navigation.module.css';
 

@@ -1,4 +1,3 @@
-/*eslint-disable*/
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import { v4 as uuidv4 } from 'uuid';
 
@@ -6,9 +5,7 @@ const ADD = 'bookstore/books/ADD';
 const REMOVE = 'bookstore/books/REMOVE';
 const LOAD = 'bookstore/books/LOAD';
 
-// eslint-disable-next-line
-const baseURL =
-  'https://us-central1-bookstore-api-e63c8.cloudfunctions.net/bookstoreApi/apps';
+const baseURL = 'https://us-central1-bookstore-api-e63c8.cloudfunctions.net/bookstoreApi/apps';
 
 const urlId = 'NT3piU7h7RLAk63s3hU1';
 
